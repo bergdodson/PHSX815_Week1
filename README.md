@@ -1,7 +1,7 @@
 # PHSX815_Week1
-This repository was created to store the projects from HW 1 and HW 2 for PHSX 815. HW 1 can be seen at the bottom of this readme file. HW 2 is explained here and has to do with the rest of the files in this repository
+This repository was created to store the projects from HW 1 and HW 2 for PHSX 815. HW 1 can be seen at the bottom of this readme file. HW 2 is explained here and has to do with the files stored in the HW 2 folder  in this repository
 
-## HW 2
+## HW 2 (See the HW 2 folder)
 Files for HW 2 are all contained in the "HW 2" folder. There are 3 code files and 1 text file. These files are explained below.
 
 ### Random_python.py
